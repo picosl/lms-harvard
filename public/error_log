@@ -1,0 +1,5 @@
+[24-May-2024 19:23:00 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Jun-2024 09:19:55 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Jun-2024 14:21:39 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[19-Jun-2024 17:38:08 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wlms/harvard.wlms.com.au/harvard/app/Http/Controllers/Admin/EnrollmentController.php on line 5
+[19-Jun-2024 17:38:27 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/wlms/harvard.wlms.com.au/harvard/app/Http/Controllers/Admin/EnrollmentController.php on line 5
